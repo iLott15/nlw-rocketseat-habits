@@ -36,7 +36,7 @@ export default function App() {
 
     await Notifications.scheduleNotificationAsync({
       content: {
-        title: "Olá, Ivan! 😀",
+        title: "Olá, Rodrigo! 😀",
         body: "Você praticou seus hábitos hoje?"
       },
       trigger
