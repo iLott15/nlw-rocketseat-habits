@@ -5,7 +5,7 @@
 <br>
 <br>
 
-# Habitto.life 💪
+# Habits by NLW Rocketseat and Ivan Lott 💪
 
 ## 🧪 Technologies
 
@@ -87,3 +87,6 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
 ---
 
 Made with 💜 by [Ivan Lott](https://github.com/iLott15)👋 with Rocketseat in NLW (https://github.com/rocketseat-education)
+
+
+may the force be with you.
