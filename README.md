@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Taught%20by&message=Rocketseat&color=white&labelColor=8257E5" alt="Taught by Rocketseat">
-  <img src="https://img.shields.io/github/forks/lucasfontesgaspareto/nlw-setup-ignite?label=forks&message=MIT&color=white&labelColor=8257E5" alt="Forks">
-  <img src="https://img.shields.io/github/stars/lucasfontesgaspareto/nlw-setup-ignite?label=stars&message=MIT&color=white&labelColor=8257E5" alt="Stars">
-</p>
+
 
 ![](./.github/cover.png)
 
@@ -40,7 +36,7 @@ Principles:
 Clone the project and access the folder.
 
 ```bash
-$ git clone https://github.com/iLott15/nlw-setup-ignite.git
+$ git clone https://github.com/iLott15/nlw-rocketseat-habits.git
 $ cd nlw-setup-ignite
 ```
 
@@ -90,4 +86,4 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
 
 ---
 
-Made with 💜 by [Ivan Lott](https://github.com/iLott15)👋
+Made with 💜 by [Ivan Lott](https://github.com/iLott15)👋 with Rocketseat in NLW (https://github.com/rocketseat-education)
